@@ -1,5 +1,7 @@
 # I’m Fátima Quijas
 A passionate physics engineering undergraduate student
+
+[![Spotify](https://spotify-play-mu-o1cu1fsq6-fatimqe1.vercel.app)]
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
