@@ -1,7 +1,7 @@
 ### Hey, I’m Fátima Quijas
 A passionate physics engineering undergraduate student
 
-[![Spotify](.vercel.app/api/spotify)](https://open.spotify.com/user/fatisqes.2)
+[![Spotify](https://spotify-play-mu-fatimqe1.vercel.app/api/spotify)](https://open.spotify.com/user/fatisqes.2)
 
 
 <!---
